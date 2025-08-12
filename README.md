@@ -30,7 +30,7 @@ The application uses ANSI escape sequences for colour-coded output, providing cl
 
 ## Installation
 ```bash
-git clone git@github.com:SYN606/Excersice-logger.git
+git clone https://github.com/SYN606/Excersice-logger.git
 ```
 
 ```bash
